@@ -1,7 +1,7 @@
 # Laravel Starter (based on Laravel 8.x)
 **Laravel Starter** is a Laravel 8.x based simple starter project. It can be used to build all type of applications. Most of the commonly needed features like Authentication, Application Backend, Backup, Logviewer are available here. It is modular, so you can use this project as a base and build your own modules. You can use the same module in any of the `Laravel Starter` based projects. New features and functionalities are being added on a regular basis.
 
-Please let me know your feedback and comments.
+Hello World
 
 # Reporting a Vulnerability
 If you discover any security related issues, please send an e-mail to Nasir Khan Saikat via nasir8891@gmail.com instead of using the issue tracker.
